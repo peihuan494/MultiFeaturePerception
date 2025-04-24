@@ -1,6 +1,8 @@
 The code is being updated continuously
 
 
-ForenSynths dataset：https://github.com/PeterWang512/CNNDetection
 
-GANGen dataset：https://github.com/chuangchuangtan/GANGen-Detection
+Training set：https://github.com/PeterWang512/CNNDetection
+
+
+Test set：https://github.com/PeterWang512/CNNDetection、https://github.com/chuangchuangtan/GANGen-Detection
